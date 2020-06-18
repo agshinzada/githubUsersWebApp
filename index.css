@@ -1,0 +1,24 @@
+.card-style{
+    width: 45rem; 
+    margin: 3rem auto;
+}
+
+.btn-style-search{
+    width: 10rem; 
+    margin-left: 16.3rem; 
+    margin-top: 1rem;
+}
+
+.btn-style-clear{
+    width: 7rem;
+    font-size: 13px;
+    height: 2rem;
+    margin-left: 25.4rem;
+    margin-top: 1rem;
+
+}
+
+.btn-style-clear:hover{
+    background-color: #007BFF;
+    color: white;
+}
